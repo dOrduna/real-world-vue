@@ -1,7 +1,7 @@
 # real-world-vue
 
 Git repo https://github.com/dOrduna/real-world-vue
-API Service: https://my-json-server.typicode.com/dOrduna/real-world-vue/events.json
+API Service: https://my-json-server.typicode.com/dOrduna/real-world-vue
 
 ## Project setup
 ```
